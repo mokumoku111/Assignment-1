@@ -6,7 +6,7 @@
 ทำการดาวน์โหลด **Jenkins** จาก https://www.jenkins.io/download/
 โดยเลือก **Download Jenkins version for : Windows** (ในกรณีที่ใช้ระบบปฏิบัติการ Windows)
 	
-<img src="/image_jenkins/jenkins_download.png" width = "800"/>
+<img src="Assignment-1/image_jenkins/jenkins_download.png" width = "800"/>
 	
 (ในที่นี้ใช้ version 2.281)
 
@@ -14,7 +14,7 @@
 	> โดยสามารถดาวน์โหลดได้จาก https://www.oracle.com/java/technologies/javase-jre8-downloads.html
 	> เมื่อติดตั้งเสร็จแล้วให้ทำการ **PATH** ที่อยู่ของ Java แล้วรีสตาร์ทเครื่อง
 	
-	<img src="image_jenkins/install_jre.png" width = "800"/>
+<img src="image_jenkins/install_jre.png" width = "800"/>
 	
 ### ขั้นตอนที่ 2
 เมื่อทำการดาวน์โหลดเสร็จแล้วให้ทำการติดตั้ง 
