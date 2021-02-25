@@ -1,11 +1,12 @@
 
 ## ขั้นตอนการติดตั้ง **Jenkins**
 
-###ขั้นตอนที่ 1 
+
+### ขั้นตอนที่ 1 
 ทำการดาวน์โหลด **Jenkins** จาก https://www.jenkins.io/download/
 โดยเลือก **Download Jenkins version for : Windows** (ในกรณีที่ใช้ระบบปฏิบัติการ Windows)
 	
-<img src="image_jenkins/jenkins_download.png" width = "800"/>
+<img src="/image_jenkins/jenkins_download.png" width = "800"/>
 	
 (ในที่นี้ใช้ version 2.281)
 
