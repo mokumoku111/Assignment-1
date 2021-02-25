@@ -41,9 +41,6 @@
 	> Start port default ของ Jenkins จะใช้ :8080 หากในเครื่องมีเครื่องมืออื่นที่ใช้ port:8080 อยู่ Jenkins จะไม่ทำงาน
 
 
-<img src="image_jenkins/jenkins_install_4.jpg" width = "600"/>
-
-
 	
 <img src="image_jenkins/jenkins_install_5.jpg" width = "600"/>
 
@@ -67,6 +64,7 @@
 เมื่อติดตั้งเสร็จแล้วให้กด Finish จากนั้นจะมีเว็บขึ้นมา 
 
 จากนั้นให้นำ __Password__ ที่ได้จาก __PATH__ สีแดงมากรอก
+
 <img src="image_jenkins/jenkins_alertPage.jpg" width = "600"/>
 
 
