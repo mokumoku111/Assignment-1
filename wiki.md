@@ -33,6 +33,7 @@
 <img src="image_jenkins/jenkins_install_3.jpg" width = "600"/>
 
 
+### ขั้นตอนที่ 3
 
 <img src="image_jenkins/jenkins_install_4.jpg" width = "600"/>
 
@@ -60,6 +61,8 @@
 
 <img src="image_jenkins/jenkins_install_finish.jpg" width = "600"/>
 
+
+### ขั้นตอนที่ 4
 
 เมื่อติดตั้งเสร็จแล้วให้กด Finish จากนั้นจะมีหน้าเว็บขึ้นมา 
 
